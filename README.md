@@ -1,6 +1,8 @@
 ![HelloAnimation (1)](https://github.com/user-attachments/assets/f375efe4-863d-40a3-baa4-46ac358a8abd)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sthuthi11&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
 
 
 
