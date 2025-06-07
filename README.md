@@ -22,7 +22,3 @@
 </table>
 
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sthuthi11&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sthuthi11&theme=highcontrast&hide_border=true">
