@@ -9,6 +9,4 @@
     </td>
   </tr>
  </table>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sthuthi11&custom_title=GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="My GitHub Activity Graph" />
 </div>
